@@ -16,7 +16,7 @@ This repository contains a simple login page with authentication implemented usi
 - Flask-WTF
 - Flask-Bcrypt
 - SQLite (or any preferred database)
-- HTML, CSS, Bootstrap (for frontend)
+- HTML
 
 ## Installation
 
